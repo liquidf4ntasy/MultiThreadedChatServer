@@ -2,6 +2,7 @@
 
 A Chat Room Messaging system
 Application developed using NetBeans IDE.
+
 Instructions to Compile/Run:
 1.Unzip the contents of zipfiles- ChatBoxServer.zip & ChatBoxClient.zip
 2. Open NetBeans- Go to – File – Open Project – Select the directory of unzipped files and -> ChatBoxServer
